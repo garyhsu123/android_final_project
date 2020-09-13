@@ -5,4 +5,4 @@ One is "Bulls and Cows" and the other irock-paper-scissors".
 ### Motivation
 Sometimes we want to play this kinds of game but you are alone. 
 ### Feature
-You can play these kinds of two-person game with computer. We add the images and voices feedback in the game to improve the immersive experience during the game.
+You can play these kinds of two-person game with computer. We add the images and voices feedback to improve the immersive experience during the game.
